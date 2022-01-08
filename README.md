@@ -82,6 +82,6 @@ or
 
 * You can check code norm due to [norminette](https://github.com/42School/norminette).
 
-* This is testers for get_next_line project:
+* This is the tester for the ``get_next_line`` project:
 
 	* [gnlTester](https://github.com/Tripouille/gnlTester)
