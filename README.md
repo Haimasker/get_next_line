@@ -61,7 +61,7 @@ descriptors at the same time. At most one static variable is allowed.
 
 * Copy this project in your project directory.
 
-* To use ``get_next_line`` in your code just include library header:
+* To use ``get_next_line()`` in your code just include library header:
 
 ```c
 #include "get_next_line.h"
